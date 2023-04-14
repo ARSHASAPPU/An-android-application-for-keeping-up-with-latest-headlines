@@ -1,1 +1,1 @@
-# An android application for keeping up with latest headlines
+# An android application for keeping up with the latest headlines
