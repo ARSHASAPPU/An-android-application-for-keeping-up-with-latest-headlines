@@ -1,1 +1,8 @@
 # An android application for keeping up with the latest headlines
+
+Google developers profile link - https://g.dev/Arsha
+                                 https://g.dev/AshaR
+                                 https://g.dev/AslinShenigha
+                                 https://g.dev/Ayarlin
+                                 
+ video demonstration link -  https://drive.google.com/file/d/17mJwaYdPS6iddWdrjF8qvcdA1INHagWx/view?usp=drivesdk
